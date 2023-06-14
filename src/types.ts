@@ -1,0 +1,1 @@
+export type kvm = { [key: string]: any };
